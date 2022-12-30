@@ -1,0 +1,1 @@
+echo "the factorial of $temp is $fact"

@@ -1,0 +1,22 @@
+total 40
+-rw-rw-r-- 1 ubuntu ubuntu  280 Nov  8 01:57 1
+-rw-rw-r-- 1 ubuntu ubuntu  175 Nov  8 13:01 biggest.sh
+drwxrwxr-x 2 ubuntu ubuntu 4096 Nov  8 13:09 dir1
+-rw-rw-r-- 1 ubuntu ubuntu  133 Nov  8 01:35 equal.sh
+-rw-rw-r-- 2 ubuntu ubuntu    0 Nov  8 02:16 file1
+-rw-rw-r-- 1 ubuntu ubuntu    0 Nov  4 18:17 fr
+lrwxrwxrwx 1 ubuntu ubuntu    2 Nov  9 01:01 ftlink -> ft
+lrwxrwxrwx 1 ubuntu ubuntu    2 Nov  4 18:18 iamfr -> fr
+-rw-rw-r-- 1 ubuntu ubuntu  115 Nov  9 02:29 line.sh
+-rw-rw-r-- 1 ubuntu ubuntu    0 Nov  4 18:17 link
+lrwxrwxrwx 1 ubuntu ubuntu    2 Nov  8 02:14 link2 -> ft
+lrwxrwxrwx 1 ubuntu ubuntu    5 Nov  8 02:16 link8 -> file1
+-rw-rw-r-- 2 ubuntu ubuntu    0 Nov  8 02:16 linkhard
+-rw-rw-r-- 1 ubuntu ubuntu  177 Nov  9 01:59 loop1.sh
+-rw-rw-r-- 1 ubuntu ubuntu    0 Nov  9 02:30 lsfile
+-rw------- 1 ubuntu ubuntu   44 Nov  4 18:27 nohup.out
+-rw-rw-r-- 1 ubuntu ubuntu    0 Nov  8 13:02 scricpt4.sh
+-rw-rw-r-- 1 ubuntu ubuntu    0 Nov  8 13:01 script.sh
+-rw-rw-r-- 1 ubuntu ubuntu  175 Nov  8 01:49 script3
+-rw-rw-r-- 1 ubuntu ubuntu  438 Nov  8 13:06 script4.sh
+-rw-rw-r-- 1 ubuntu ubuntu  300 Nov  9 01:18 verify.sh
